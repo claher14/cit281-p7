@@ -1,0 +1,15 @@
+# Project 7 – CIT Minor GitHub Portfolio
+
+This project is my final GitHub Pages portfolio for CIT 281.
+
+## Lab 8
+Lab 8 focused on building a Node.js server using Express, serving static files, and making external API requests using `fetch()`.
+
+**Technologies used:** JavaScript, Node.js, Express  
+**What I learned:** Express routing, serving static files, async/await, chaining `.then()` calls, GitHub version control
+
+## Lab 9
+Lab 9 focused on using GitHub workflows and release-based development using branches, pull requests, and release tagging.
+
+**Technologies used:** GitHub Pages, Pull Requests, Semantic Versioning  
+**What I learned:** How to manage branching, protected branches, GitHub Actions, and GitHub Pages deployment
