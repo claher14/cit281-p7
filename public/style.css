@@ -1,0 +1,29 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+h1 {
+  color: #2c3e50;
+}
+
+#photo-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+#photo-list li {
+  cursor: pointer;
+  padding: 5px;
+  color: #2980b9;
+}
+
+#photo-list li:hover {
+  background-color: #ecf0f1;
+}
+
+#photo-details {
+  margin-top: 20px;
+  border-top: 1px solid #ccc;
+  padding-top: 10px;
+}
